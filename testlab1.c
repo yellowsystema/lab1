@@ -2,7 +2,7 @@
 
 int main() {
     int random[] = 4;
-    printf(random);
+    push(random);
 
     return 0;
 }
